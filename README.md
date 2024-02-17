@@ -1,4 +1,4 @@
-# MOG2-background-substraction-realtime
+# Realtime MOG2 background substraction
 
 Run <b>Mog2_example_realtime_gpu_optimized.py</b> if you have opencv built with cuda support<br>
 Or<br>
